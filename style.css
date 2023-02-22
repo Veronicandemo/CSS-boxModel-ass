@@ -5,6 +5,7 @@
 }
 .container{
     border: 2px dotted #0b7285;
+    font-family: 'Inter', sans-serif;
 }
 .inner-div{
     padding: 20px;
